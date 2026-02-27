@@ -1,7 +1,7 @@
 package com.example;
 
 public class Greeter {
-
+    // comment to trigger pipeline
     public String greet(String name) {
         return "Hello, " + name + "!";
     }
